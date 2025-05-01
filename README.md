@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Nick Hu
 
-<!--
-**nicholashu/nicholashu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer and product builder based in Perth, Australia. I enjoy working at the intersection of technology and user experience, crafting digital solutions that make a difference.
 
-Here are some ideas to get you started:
+## 💼 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Airteam**: Building scalable digital products for clients across various industries. [airteam.com.au](https://airteam.com.au)
+- **Kurb Online**: Aggregating the world of second hand designer retailer into one location. [kurb.online](https://kurb.online)
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/nicholashu1994)
+- [GitHub](https://github.com/nicholashu)
