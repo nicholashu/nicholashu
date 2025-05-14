@@ -9,5 +9,5 @@ I'm a software engineer and product builder based in Perth, Australia. I enjoy w
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/nicholashu1994)
+- [LinkedIn](https://www.linkedin.com/in/nick-hu-perth)
 - [GitHub](https://github.com/nicholashu)
